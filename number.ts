@@ -33,6 +33,3 @@ showReviewTotal(reviews.length)
 
 
 
-
-//output
-review total 3
