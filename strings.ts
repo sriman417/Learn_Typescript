@@ -35,7 +35,3 @@ showReviewTotal(reviews.length, reviews[0].name)
 
 
 
-
-
-//output
-review total 3 |last reviewed by Sheia
