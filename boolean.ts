@@ -38,8 +38,3 @@ function showReviewTotal (value : number, reviewer: string,last : boolean) {
 
 showReviewTotal(reviews.length, reviews[0].name,reviews[0].loyaltyUser)
 
-
-
-
-//output
-review total 3 |last reviewed by Sheia⭐️
